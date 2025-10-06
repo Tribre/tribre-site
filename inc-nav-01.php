@@ -532,9 +532,9 @@
                 </form>
             </div>
             <div class="header-social-icon d-none d-md-inline-block">
-                <a href="https://www.facebook.com/" title="Facebook" target="_blank"><i class="fa-brands fa-facebook-f" aria-hidden="true"></i></a>
-                <a href="https://twitter.com/" title="Twitter" target="_blank"><i class="fa-brands fa-twitter"></i></a>
-                <a href="https://dribbble.com/" title="Dribbble" target="_blank"><i class="fa-brands fa-dribbble"></i></a>                          
+                <!--a href="https://www.facebook.com/" title="Facebook" target="_blank"><i class="fa-brands fa-facebook-f" aria-hidden="true"></i></a-->
+                <!--a href="https://twitter.com/" title="Twitter" target="_blank"><i class="fa-brands fa-twitter"></i></a-->
+                <!--a href="https://dribbble.com/" title="Dribbble" target="_blank"><i class="fa-brands fa-dribbble"></i></a-->                          
             </div>
         </div>
     </div>
