@@ -87,7 +87,7 @@
                             <p class="w-95 lg-w-100">Tribre isn't just a tool; it's a realm for those who want to co-create. We invite communities and partners to join us in building this world of aligned organizations.</p>
                         </div>
                     </div>
-                    <div class="col-xl-6 col-lg-6 cover-background order-lg-2 order-1" style="background-image: url('images/bg/ants-968x596.png')"><div class="md-h-500px sm-h-350px"></div></div>
+                    <div class="col-xl-6 col-lg-6 cover-background order-lg-2 order-1" style="background-image: url('images/bg/ants-hole-968x596.png')"><div class="md-h-500px sm-h-350px"></div></div>
                 </div>
             </div>
         </section>
