@@ -112,13 +112,15 @@
                 <div class="row justify-content-center padding-80px-tb md-padding-60px-tb sm-padding-40px-tb">
                     <div class="col-lg-10 col-md-12 text-center">
                         <h5 class="alt-font font-weight-700 text-white text-uppercase margin-30px-bottom">Call to Co-Create</h5>
-                        <p class="w-90 mx-auto lg-w-100 text-large line-height-40 text-white margin-40px-bottom">Join us not as customers, but as partners in crafting this vision. Let's build a world where roles connect, align, and empower organizations to thrive together.</p>
+                        <p class="w-90 mx-auto lg-w-100 text-large line-height-40 text-white margin-40px-bottom">Let us join you as stewards of purpose. Let's build a world where roles connect, align, and empower organizations to thrive together.</p>
                         <a href="contact-us-modern.html" class="btn btn-medium btn-white">Join the Movement</a>
                     </div>
                 </div>
             </div>
         </section>
         <!-- end call to co-create section -->
+
+        <?php include 'inc-footer-03.php';?>
         
         <!-- start scroll to top -->
         <a class="scroll-top-arrow" href="javascript:void(0);"><i class="ti-arrow-up"></i></a>
