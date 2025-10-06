@@ -106,7 +106,7 @@
                                     <div class="opacity-medium bg-black"></div>
                                     <figure class="position-absolute">
                                         <figcaption>
-                                            <a href="purpose.php"><h6 class="font-weight-300 text-white-2 margin-20px-bottom">Tribre Purpose</h6></a>
+                                            <a href="role-weavers.php"><h6 class="font-weight-300 text-white-2 margin-20px-bottom">Tribre Purpose</h6></a>
                                             <p class="text-white-2 w-85 md-w-100">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                                             <div class="separator-line-horrizontal-medium-light2 opacity5 bg-white margin-35px-top md-margin-15px-top"></div>
                                         </figcaption>
