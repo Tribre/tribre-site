@@ -14,7 +14,7 @@
             <div class="swiper full-screen md-landscape-h-580px sm-h-500px white-move" data-slider-options='{ "loop": true, "slidesPerView": "1", "allowTouchMove":true, "autoplay": { "delay": 5000, "disableOnInteraction": false }, "keyboard": { "enabled": true, "onlyInViewport": true }, "navigation": { "nextEl": ".swiper-button-next", "prevEl": ".swiper-button-prev" }, "pagination": { "el": ".swiper-pagination-01", "clickable": true } }'>
                 <div class="swiper-wrapper">
                     <!-- start slider item -->
-                    <div class="swiper-slide cover-background" style="background-image:url('https://via.placeholder.com/1920x1080');">
+                    <div class="swiper-slide cover-background" style="background-image:url('images/bg/mush-mesh-1920x1080.png');">
                         <div class="opacity-extra-medium bg-black"></div>
                         <div class="container position-relative h-100">
                             <div class="row h-100">
@@ -50,7 +50,7 @@
         <section class="p-0 wow animate__fadeIn text-center text-md-start bg-light-gray">
             <div class="container-fluid p-0">
                 <div class="row g-0">
-                    <div class="col-xl-6 col-lg-6 cover-background" style="background-image: url('https://via.placeholder.com/968x596')"><div class="md-h-500px sm-h-350px"></div></div>
+                    <div class="col-xl-6 col-lg-6 cover-background" style="background-image: url('images/bg/ants-968x596.png')"><div class="md-h-500px sm-h-350px"></div></div>
                     <div class="col-xl-6 col-lg-6 bg-white last-paragraph-no-margin text-center text-lg-start">
                         <div class="padding-80px-all xl-padding-40px-all md-padding-60px-all sm-padding-40px-all">
                             <h5 class="alt-font font-weight-700 text-extra-dark-gray text-uppercase">The Role Weavers</h5>
@@ -87,7 +87,7 @@
                             <p class="w-95 lg-w-100">Tribre isn't just a tool; it's a realm for those who want to co-create. We invite communities and partners to join us in building this world of aligned organizations.</p>
                         </div>
                     </div>
-                    <div class="col-xl-6 col-lg-6 cover-background order-lg-2 order-1" style="background-image: url('https://via.placeholder.com/968x596')"><div class="md-h-500px sm-h-350px"></div></div>
+                    <div class="col-xl-6 col-lg-6 cover-background order-lg-2 order-1" style="background-image: url('images/bg/ants-968x596.png')"><div class="md-h-500px sm-h-350px"></div></div>
                 </div>
             </div>
         </section>
