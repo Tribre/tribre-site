@@ -24,7 +24,7 @@
                                     <ul class="font-weight-600 no-padding-left">
                                         <!-- start menu item -->
                                         <li class="dropdown">
-                                            <a href="javascript:void(0);">Home</a><span data-bs-toggle="dropdown" class="dropdown-toggle"></span>
+                                            <a href="javascript:void(0);">Home</a><!--span data-bs-toggle="dropdown" class="dropdown-toggle"></span-->
                                             <!--ul class="dropdown-menu font-weight-300">
                                                 <li><a href="index.html">Classic corporate</a></li>
                                                 <li><a href="home-creative-studio.html">Creative studio</a></li>
@@ -35,7 +35,7 @@
                                         <!-- end menu item -->
                                         <!-- start menu item -->
                                         <li class="dropdown">
-                                            <a href="javascript:void(0);">Pages</a><span data-bs-toggle="dropdown" class="dropdown-toggle"></span>
+                                            <a href="javascript:void(0);">Pages</a><!--span data-bs-toggle="dropdown" class="dropdown-toggle"></span-->
                                             <!--ul class="dropdown-menu font-weight-300">
                                                 <li><a href="about-us-simple.html">About</a></li>
                                                 <li><a href="services-simple.html">Services</a></li>
@@ -47,7 +47,7 @@
                                         <!-- end menu item -->
                                         <!-- start menu item -->
                                         <li class="dropdown">
-                                            <a href="javascript:void(0);">Portfolio</a><span data-bs-toggle="dropdown" class="dropdown-toggle"></span>
+                                            <a href="javascript:void(0);">Portfolio</a><!--span data-bs-toggle="dropdown" class="dropdown-toggle"></span-->
                                             <!--ul class="dropdown-menu font-weight-300">
                                                 <li><a href="portfolio-full-width-masonry-overlay.html">Portfolio masonry</a></li>
                                                 <li><a href="portfolio-full-width-metro-overlay.html">Portfolio metro</a></li>
@@ -60,7 +60,7 @@
                                         <!-- end menu item -->
                                         <!-- start menu item -->
                                         <li class="dropdown">
-                                            <a href="javascript:void(0);">Blog</a><span data-bs-toggle="dropdown" class="dropdown-toggle"></span>
+                                            <a href="javascript:void(0);">Blog</a><!--span data-bs-toggle="dropdown" class="dropdown-toggle"></span-->
                                             <!--ul class="dropdown-menu font-weight-300">
                                                 <li><a href="blog-standard-full-width.html">Blog standard – full width</a></li>
                                                 <li><a href="blog-classic.html">Blog classic</a></li>
@@ -86,7 +86,7 @@
                                         <!-- end menu item -->
                                         <!-- start menu item -->
                                         <li class="dropdown">
-                                            <a href="javascript:void(0);">Elements</a><span data-bs-toggle="dropdown" class="dropdown-toggle"></span>
+                                            <a href="javascript:void(0);">Elements</a><!--span data-bs-toggle="dropdown" class="dropdown-toggle"></span-->
                                             <!--ul class="dropdown-menu font-weight-300">
                                                 <li><a href="accordions.html">General elements</a></li>
                                                 <li><a href="progress-bar.html">Infographics / icons</a></li>
@@ -97,7 +97,7 @@
                                         <!-- end menu item -->
                                         <!-- start menu item -->
                                         <li class="dropdown">
-                                            <a href="javascript:void(0);">Features</a><span data-bs-toggle="dropdown" class="dropdown-toggle"></span>
+                                            <a href="javascript:void(0);">Features</a><!--span data-bs-toggle="dropdown" class="dropdown-toggle"></span-->
                                             <!--ul class="dropdown-menu font-weight-300">
                                                 <li><a href="transparent-header.html">Header styles</a></li>
                                                 <li><a href="footer-standard.html">Footer</a></li>
