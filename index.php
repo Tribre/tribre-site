@@ -174,7 +174,7 @@
                     <div class="swiper full-screen white-move px-0 hover-option3" data-slider-options='{ "loop": false, "autoplay": { "delay": 3000, "disableOnInteraction": false }, "keyboard": { "enabled": true, "onlyInViewport": true }, "navigation": { "nextEl": ".swiper-button-next", "prevEl": ".swiper-button-prev" }, "pagination": { "el": ".swiper-pagination", "clickable": true }, "breakpoints": { "1200": { "slidesPerView": 4 }, "992": { "slidesPerView": 3 }, "768": { "slidesPerView": 2 } }, "slidesPerView": "1" }'>
                         <div class="swiper-wrapper">
                             <!-- start slide item -->
-                            <div class="swiper-slide cover-background grid-item text-start" style="background-image:url('/html/images/carousel/Tribre.png');">
+                            <div class="swiper-slide cover-background grid-item text-start" style="background-image:url('images/carousel/Tribre.png');">
                                 <div class="slide-hover-box">
                                     <div class="opacity-medium bg-black bg-black"></div>
                                     <figure class="position-absolute">
@@ -188,7 +188,7 @@
                             </div>
                             <!-- end slide item -->
                             <!-- start slide item -->
-                            <div class="swiper-slide cover-background grid-item text-start" style="background-image:url('/html/images/carousel/TriTe.png');">
+                            <div class="swiper-slide cover-background grid-item text-start" style="background-image:url('images/carousel/TriTe.png');">
                                 <div class="slide-hover-box">
                                     <div class="opacity-medium bg-black"></div>
                                     <figure class="position-absolute">
@@ -202,7 +202,7 @@
                             </div>
                             <!-- end slide item -->
                             <!-- start slide item -->
-                            <div class="swiper-slide cover-background grid-item text-start" style="background-image:url('/html/images/carousel/TriSo.png');">
+                            <div class="swiper-slide cover-background grid-item text-start" style="background-image:url('images/carousel/TriSo.png');">
                                 <div class="slide-hover-box">
                                     <div class="opacity-medium bg-black"></div>
                                     <figure class="position-absolute">
@@ -216,7 +216,7 @@
                             </div>
                             <!-- end slide item -->
                             <!-- start slide item -->
-                            <div class="swiper-slide cover-background grid-item text-start" style="background-image:url('/html/images/carousel/TriCo.png');">
+                            <div class="swiper-slide cover-background grid-item text-start" style="background-image:url('images/carousel/TriCo.png');">
                                 <div class="slide-hover-box">
                                     <div class="opacity-medium bg-black"></div>
                                     <figure class="position-absolute">
@@ -230,7 +230,7 @@
                             </div>
                             <!-- end slide item -->
                             <!-- start slide item -->
-                            <div class="swiper-slide cover-background grid-item text-start" style="background-image:url('/html/images/carousel/bg-rl.png');">
+                            <div class="swiper-slide cover-background grid-item text-start" style="background-image:url('images/carousel/TriRL.png');">
                                 <div class="slide-hover-box">
                                     <div class="opacity-medium bg-black"></div>
                                     <figure class="position-absolute">
@@ -244,7 +244,7 @@
                             </div>
                             <!-- end slide item -->
                             <!-- start slide item -->
-                            <div class="swiper-slide cover-background grid-item text-start" style="background-image:url('/html/images/carousel/TriAI.png');">
+                            <div class="swiper-slide cover-background grid-item text-start" style="background-image:url('images/carousel/TriAI.png');">
                                 <div class="slide-hover-box">
                                     <div class="opacity-medium bg-black"></div>
                                     <figure class="position-absolute">
@@ -258,7 +258,7 @@
                             </div>
                             <!-- end slide item -->
                             <!-- start slide item -->
-                            <div class="swiper-slide cover-background grid-item text-start" style="background-image:url('/html/images/carousel/TriPu.png');">
+                            <div class="swiper-slide cover-background grid-item text-start" style="background-image:url('images/carousel/TriPu.png');">
                                 <div class="slide-hover-box">
                                     <div class="opacity-medium bg-black"></div>
                                     <figure class="position-absolute">
