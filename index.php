@@ -5,7 +5,7 @@
     </head>
     <body class="w-100">
         <!-- start header -->
-        <header class="no-sticky">
+        <header><!-- class="no-sticky"-->
             <?php include 'inc-nav-00.php';?>
         </header>
         <!-- end header -->
@@ -21,7 +21,7 @@
                                     <div class="opacity-medium bg-black bg-black"></div>
                                     <figure class="position-absolute">
                                         <figcaption>
-                                            <a href="page-01.php"><h6 class="font-weight-300 text-white-2 margin-20px-bottom">Tribre</h6></a>
+                                            <a href="tribre.php"><h6 class="font-weight-300 text-white-2 margin-20px-bottom">Tribre</h6></a>
                                             <p class="text-white-2 w-85 md-w-100">Collective Role Intelligence</p>
                                             <p class="text-white-2 w-85 md-w-100">Roles snap. Teams grow. Borders vanish.</p>
                                             <div class="separator-line-horrizontal-medium-light2 opacity5 bg-white margin-35px-top md-margin-15px-top"></div>
@@ -36,7 +36,7 @@
                                     <div class="opacity-medium bg-black"></div>
                                     <figure class="position-absolute">
                                         <figcaption>
-                                            <a href="page-02.php"><h6 class="font-weight-300 text-white-2 margin-20px-bottom">Tribre Teams</h6></a>
+                                            <a href="tribre-teams.php"><h6 class="font-weight-300 text-white-2 margin-20px-bottom">Tribre Teams</h6></a>
                                             <p class="text-white-2 w-85 md-w-100">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                                             <div class="separator-line-horrizontal-medium-light2 opacity5 bg-white margin-35px-top md-margin-15px-top"></div>
                                         </figcaption>
@@ -50,7 +50,7 @@
                                     <div class="opacity-medium bg-black"></div>
                                     <figure class="position-absolute">
                                         <figcaption>
-                                            <a href="home-01.php"><h6 class="font-weight-300 text-white-2 margin-20px-bottom">Tribre Solo</h6></a>
+                                            <a href="tribre-solo.php"><h6 class="font-weight-300 text-white-2 margin-20px-bottom">Tribre Solo</h6></a>
                                             <p class="text-white-2 w-85 md-w-100">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                                             <div class="separator-line-horrizontal-medium-light2 opacity5 bg-white margin-35px-top md-margin-15px-top"></div>
                                         </figcaption>
@@ -64,7 +64,7 @@
                                     <div class="opacity-medium bg-black"></div>
                                     <figure class="position-absolute">
                                         <figcaption>
-                                            <a href="home-02.php"><h6 class="font-weight-300 text-white-2 margin-20px-bottom">Tribre Communities</h6></a>
+                                            <a href="tribre-communities.php"><h6 class="font-weight-300 text-white-2 margin-20px-bottom">Tribre Communities</h6></a>
                                             <p class="text-white-2 w-85 md-w-100">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                                             <div class="separator-line-horrizontal-medium-light2 opacity5 bg-white margin-35px-top md-margin-15px-top"></div>
                                         </figcaption>
@@ -78,7 +78,7 @@
                                     <div class="opacity-medium bg-black"></div>
                                     <figure class="position-absolute">
                                         <figcaption>
-                                            <a href="home-03.php"><h6 class="font-weight-300 text-white-2 margin-20px-bottom">Tribre Role Library</h6></a>
+                                            <a href="tribre-rolelibrary.php"><h6 class="font-weight-300 text-white-2 margin-20px-bottom">Tribre Role Library</h6></a>
                                             <p class="text-white-2 w-85 md-w-100">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                                             <div class="separator-line-horrizontal-medium-light2 opacity5 bg-white margin-35px-top md-margin-15px-top"></div>
                                         </figcaption>
@@ -92,7 +92,7 @@
                                     <div class="opacity-medium bg-black"></div>
                                     <figure class="position-absolute">
                                         <figcaption>
-                                            <a href="page-01.php"><h6 class="font-weight-300 text-white-2 margin-20px-bottom">Tribre AI</h6></a>
+                                            <a href="tribre-ai.php"><h6 class="font-weight-300 text-white-2 margin-20px-bottom">Tribre AI</h6></a>
                                             <p class="text-white-2 w-85 md-w-100">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                                             <div class="separator-line-horrizontal-medium-light2 opacity5 bg-white margin-35px-top md-margin-15px-top"></div>
                                         </figcaption>
