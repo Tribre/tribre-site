@@ -114,14 +114,28 @@
                                 </div>
                             </div>
                             <!-- end slide item -->
-                            <!-- start slide item -- >
-                            <div class="swiper-slide cover-background grid-item text-start" style="background-image:url('images/carousel/bg-tribre.png');">
+                            <!-- start slide item -->
+                            <div class="swiper-slide cover-background grid-item text-start" style="background-image:url('images/carousel/Tribre.png');">
                                 <div class="slide-hover-box">
                                     <div class="opacity-medium bg-black"></div>
                                     <figure class="position-absolute">
                                         <figcaption>
-                                            <a href="single-project-page-01.html"><h6 class="font-weight-300 text-white-2 margin-20px-bottom">Beoplay</h6></a>
-                                            <p class="text-white-2 w-85 md-w-100">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                            <a href="contribute.php"><h6 class="font-weight-300 text-white-2 margin-20px-bottom">Contribute to Tribre</h6></a>
+                                            <p class="text-white-2 w-85 md-w-100">Check out open roles, talk to the open roles, or suggest completely new roles.</p>
+                                            <div class="separator-line-horrizontal-medium-light2 opacity5 bg-white margin-35px-top md-margin-15px-top"></div>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+                            <!-- end slide item -->
+                            <!-- start slide item -->
+                            <div class="swiper-slide cover-background grid-item text-start" style="background-image:url('images/carousel/TriTe.png');">
+                                <div class="slide-hover-box">
+                                    <div class="opacity-medium bg-black"></div>
+                                    <figure class="position-absolute">
+                                        <figcaption>
+                                            <a href="collaborate.php"><h6 class="font-weight-300 text-white-2 margin-20px-bottom">Collaborate with Tribre</h6></a>
+                                            <p class="text-white-2 w-85 md-w-100">Tribre is a node for purpose. We work with organizations to co-create connected roles that empower teams and organizations to thrive together.</p>
                                             <div class="separator-line-horrizontal-medium-light2 opacity5 bg-white margin-35px-top md-margin-15px-top"></div>
                                         </figcaption>
                                     </figure>
